@@ -304,6 +304,10 @@ img {
   transition: 0.3s;
 }
 
+.home__scroll-button:hover {
+  transform: translateY(0.25rem);
+}
+
 /*==================== BUTTONS ====================*/
 
 /*==================== ABOUT ====================*/
